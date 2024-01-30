@@ -188,6 +188,7 @@ const configDefinitionsBuiltInGlobal: Record<ConfigNameGlobal, ConfigDefinitionI
   prerender: {
     env: { config: true }
   },
+  // TODO/v1-release: remove
   extensions: { env: { config: true } },
   disableAutoFullBuild: { env: { config: true } },
   includeAssetsImportedByServer: { env: { config: true } },
