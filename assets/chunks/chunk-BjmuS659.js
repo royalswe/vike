@@ -1,0 +1,1 @@
+import{a as o,j as t}from"./chunk--_W9w5QS.js";/* empty css              */function c({children:s,lineBreak:r}){o(r==="white-space"||r==="break-word","`lineBreak` is currently the only use case for <CodeBlockTransformer>");const e=`with-line-break_${r}`;return t.jsx("div",{className:e,children:s})}export{c as C};
